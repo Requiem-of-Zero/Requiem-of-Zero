@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://samuelwong.xyz/)
-[![website](./img/globe-dark.svg)](http://samuelwong.xyz/)
+[![website](./img/globe-light.svg)](http://samuelwong.xyz#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://samuelwong.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/samdubyoo)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/samdubyoo)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/samdubyoo#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/samdubyoo#gh-dark-mode-only)
 
 ### Languages and Tools:
 
