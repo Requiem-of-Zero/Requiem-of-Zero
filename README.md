@@ -1,4 +1,4 @@
-# Hi there, Sam 👋
+# Hi there I'm, Sam 👋
 
 ## I'm a student, developer, gamer, and athlete!!
 - 🌱 I’m currently learning everything 🤣
