@@ -1,7 +1,7 @@
 # Hi there, I'm Sam 👋
 
 ## I'm a student, developer, gamer, and athlete!!
-- 🌱 I’m currently improving my graph manipulation
+- 🌱 I’m currently improving my frontend skills
 - 👯 I’m looking to collaborate and network with other amazing developers
 - 🥅 2022 Goals: Learn more about docker
 - ⚡ Fun fact: I was captain and mvp in my highschool volleyball team
