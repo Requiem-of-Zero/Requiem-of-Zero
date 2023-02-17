@@ -1,24 +1,32 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/MC6eSuC3yypCU/giphy.gif?cid=ecf05e47hyoqqwcayymyyjmmtmauza87sqs1qwf3wd5i2o8g&rid=giphy.gif&ct=g" width="100"/>
-
   <div id="badges">
     <a href='https://www.linkedin.com/in/samdubyoo'>
       <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
     <a/>
   </div>
-
   <img src="https://komarev.com/ghpvc/?username=requiem-of-zero&style=flat-square&color=blue" alt=""/>
-
   <h1>
     Hi there, I'm Sam 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-## I'm a student, developer, gamer, and athlete!!
-- 🌱 I’m currently improving my frontend skills
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
+
+- 🌱 I’m currently creating new projects with the NextJS framework
+
 - 👯 I’m looking to collaborate and network with other amazing developers
-- 🥅 2022 Goals: Learn more about docker
-- ⚡ Fun fact: I was captain and mvp in my highschool volleyball team
+
+- 🥅 2023 Goals: Learn more about AI development
+
+- ⚡ Fun fact: I was captain and MVP in my highschool volleyball team
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samdubyoo)
 
 ### Connect with me:
 
