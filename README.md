@@ -1,8 +1,13 @@
 # Hi there, I'm Sam 👋
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/MC6eSuC3yypCU/giphy.gif?cid=ecf05e47hyoqqwcayymyyjmmtmauza87sqs1qwf3wd5i2o8g&rid=giphy.gif&ct=g" width="100"/>
-</div>
 
+  <div id="badges">
+    <a href='https://www.linkedin.com/in/samdubyoo'>
+      <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
+    <a/>
+  </div>
+</div>
 ## I'm a student, developer, gamer, and athlete!!
 - 🌱 I’m currently improving my frontend skills
 - 👯 I’m looking to collaborate and network with other amazing developers
