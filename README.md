@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47e8nhi1burets5ni8haqhrigm76h2n5nd1ptbzapt&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47e8nhi1burets5ni8haqhrigm76h2n5nd1ptbzapt&rid=giphy.gif&ct=g" width="400" height="200"/>
 </div>
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Francisco.
