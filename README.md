@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact: I was captain and MVP in my highschool volleyball team
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samdubyoo)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samdubyoo)
 
 ### Connect with me:
 
