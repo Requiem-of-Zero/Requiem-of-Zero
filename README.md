@@ -1,4 +1,3 @@
-# Hi there, I'm Sam 👋
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/MC6eSuC3yypCU/giphy.gif?cid=ecf05e47hyoqqwcayymyyjmmtmauza87sqs1qwf3wd5i2o8g&rid=giphy.gif&ct=g" width="100"/>
 
@@ -7,6 +6,13 @@
       <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
     <a/>
   </div>
+
+  <img src="https://komarev.com/ghpvc/?username=requiem-of-zero&style=flat-square&color=blue" alt=""/>
+
+  <h1>
+    Hi there, I'm Sam 👋
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 ## I'm a student, developer, gamer, and athlete!!
 - 🌱 I’m currently improving my frontend skills
