@@ -1,4 +1,7 @@
 # Hi there, I'm Sam 👋
+<div id="header" align="center">
+  <img src="https://imgur.com/kMvnYUB" width="100"/>
+</div>
 
 ## I'm a student, developer, gamer, and athlete!!
 - 🌱 I’m currently improving my frontend skills
